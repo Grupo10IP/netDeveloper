@@ -23,7 +23,7 @@ Puedes buscar el momento que mejor te venga para empezar la prueba, una vez que 
 
 ## Requisitos
 
-- El candidato debe de usar su propia plataforma de desarrollo de test
+- El candidato debe de usar su propia plataforma de desarrollo y de test
 - Debe de ser 100% funcional
 - Se debe de explicar las instrucciones necesarias para ejecutar el proyecto
 - Debe de ser un proyecto hecho con Visual Studio
