@@ -63,6 +63,10 @@ Le hemos pedido a Vanesa que nos diga como hace su trabajo ahora mismo y nos ha 
  ## Estamos convencidos de que eres el candidato perfecto para ayudar a nuestra compañera, ¿Asumes el reto?
 
 *************** First change
+![image](https://user-images.githubusercontent.com/8226951/113494356-c6499780-94e7-11eb-971a-7531e4d5a778.png)
+![image](https://user-images.githubusercontent.com/8226951/113494353-baf66c00-94e7-11eb-95ea-bd9d2ea0c5ec.png)
+
+
 
 
 
