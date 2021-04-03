@@ -64,4 +64,6 @@ Le hemos pedido a Vanesa que nos diga como hace su trabajo ahora mismo y nos ha 
 
 *************** First change
 ![image](https://user-images.githubusercontent.com/8226951/113494220-a9609480-94e6-11eb-92d6-6e229cf86142.png)
+![image](https://user-images.githubusercontent.com/8226951/113494239-ddd45080-94e6-11eb-83fc-a8011facaee3.png)
+
 
