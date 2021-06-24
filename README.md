@@ -15,9 +15,9 @@ La evaluación tendrá en cuenta los siguientes criterios
 - Test
 
 ## Como funciona la prueba
-Haz un fork de este repositorio y comienza a trabajar en la solución, la idea es comitear cada pequeño cambio para que podamos chequear tu evolución.
+Haz un repositorio y comienza a trabajar en la solución, la idea es comitear cada pequeño cambio para que podamos chequear tu evolución.
 
-Realiza un primer cambio en el Readme.md para poder ver cuando has iniciado el proceso.
+Realiza un primer cambio en el Readme para poder ver cuando has iniciado el proceso.
 
 Puedes buscar el momento que mejor te venga para empezar la prueba, una vez que acabes, escribe un correo a dgalindo@grupo10.com mandando la URL de tu prueba, con el asunto [JOB] [netDeveloper] + Nombre.
 
@@ -44,11 +44,11 @@ El otro día tomando un café con ella, le dijimos que desde el equipo de desarr
 
 ## ¿Quieres ayudar a Vanesa?
 
-Desde el departamento de producto de ACME, ya habíamos pensado una posible solución para ayudar a Vanesa, pero antes de cerrar el producto, nos encanta escuchar las sugerencias y mejoras de nuestro equipo de desarrollo.
+Desde el departamento de producto de ACME habíamos pensado una posible solución para ayudar a Vanesa, pero antes de cerrar el producto, nos encanta escuchar las sugerencias y mejoras de nuestro equipo de desarrollo.
 
 Nuestra idea es hacerle un programa de escritorio, con una interfaz visual muy intuitiva en el que haya dos funcionalidades:
-- Que tenga un calendario con los días marcados, donde sepamos qué día hemos y no hemos descargado la información del BOE
-- Que pueda filtrar por fecha, provincia y capital el listado de empresas que hemos dado de alta.
+- Que tenga un calendario con los días marcados, donde sepamos qué día hemos y no hemos descargado la información del BORME
+- Que pueda filtrar por fecha y provincia el listado de empresas que hemos dado de alta.
 
 Seguro que a Vanesa le es muy útil en el listado conocer el objeto social de la empresa o poder filtrar por el nombre, aunque cualquier idea para ayudar a Vanesa es bien recibida.
 
