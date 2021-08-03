@@ -57,7 +57,7 @@ Le hemos pedido a Vanesa que nos diga como hace su trabajo ahora mismo y nos ha 
 - Accede al BORME https://www.boe.es/diario_borme/
 - Elige la fecha del día que quiere: https://www.boe.es/borme/dias/2021/03/05/
 - Va entrando provincia a provincia https://www.boe.es/borme/dias/2021/03/05/pdfs/BORME-A-2021-44-02.pdf https://www.boe.es/borme/dias/2021/03/05/pdfs/BORME-A-2021-44-03.pdf
-  , leyendo cada uno de los pdf y sacando la información que necesita a un Excel
+ , leyendo cada uno de los pdf y sacando la información que necesita a un Excel
   
   
  ## Estamos convencidos de que eres el candidato perfecto para ayudar a nuestra compañera, ¿Asumes el reto?
